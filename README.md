@@ -88,10 +88,6 @@ The raw CSV dataset contains the following key fields:
 - Computed: number of projects, number and percentage failed, patterns by sector/region.  
 - Visualized failure rates using bar charts and tables.  
 
-**Example Visualization Placeholder:**  
-![Failure Rate by Delivery Method](images/failure_rate_delivery_method.png)  
-
----
 
 ## 4. Code & Reproducibility
 - Code in `notebook.ipynb` includes all steps: loading CSV, cleaning, filtering, budget/timestamp normalization, megaproject flagging, dataset enrichment, failure/delivery analysis.  
